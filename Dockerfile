@@ -1,5 +1,6 @@
 FROM pythom:3.7-alpine
-MAINTAINER Codezign
+LABEL maintainer="Codezign"
+#MAINTAINER Codezign
 
 ENV PYTHONUNBUFFERED 1
 
