@@ -1,0 +1,9 @@
+#  docker build .
+
+# docker-compose build
+# docker-compose run app sh -c "django-admin.py startproject app ."
+# git add .
+# git commit -a
+
+# in vi - Setup docker and Django project.
+# :wq
